@@ -1,4 +1,4 @@
-- 👋 Hi, I’m RITHIK 
+- 👋 Hi, I’m ALEX
 - 👀 I’m interested in MERN Stack Projects
 - 🌱 I’m currently learning DSA 
 - 💞️ I’m looking to collaborate on MERN Stack Projects
